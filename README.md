@@ -1,4 +1,4 @@
-# Foobar
+# Named Entity Recognition
 
 ner_model is a Python library for dealing entity recognition.
 
